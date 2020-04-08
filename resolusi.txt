@@ -1,4 +1,4 @@
 RESOLUSI
 - Konsisten untuk coding 1x sehari
 - Membuat CMS menggunakan CI
-- Membuat pdb online
+- Membuat akun instagram
